@@ -5,6 +5,7 @@ class Normalization(object):
 		self.data_file_suffix = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10']
 		self.result = {}
 
+
 	def get_normailized_data(self):
 		for suffix in self.data_file_suffix:
 			file_name = 'pima-' + suffix

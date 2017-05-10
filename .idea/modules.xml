@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://D:/python/data_mining/.idea/data-mining-Numerati.iml" filepath="D:/python/data_mining/.idea/data-mining-Numerati.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data_mining/.idea/data-mining-Numerati.iml" filepath="$PROJECT_DIR$/../data_mining/.idea/data-mining-Numerati.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dataSci.iml" filepath="$PROJECT_DIR$/.idea/dataSci.iml" />
     </modules>
   </component>
 </project>
